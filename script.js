@@ -55,7 +55,7 @@ const score = [0, 0];
 let currentScore = 0;
 let activePlayer = 0;
 let playing = true;
-const reach = 20;
+const reach = 100;
 
 // adding responce to roll btn
 btnRoll.addEventListener("click", function () {
